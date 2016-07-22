@@ -1,4 +1,4 @@
-# practice-project
+# Megaman
 Practice project for cssi
 
 AJ - October 16th
